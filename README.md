@@ -1,121 +1,121 @@
-<h2>Chemistry Lectures - Richard Louie: </h2>
+<h2>Richard Louie Chemistry Lectures: </h2>
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(1).pdf" style="text-decoration:none;">An Analysis of Deep Neural Network Models for Practical Applications</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(1).pdf" style="text-decoration:none;">Units of Measurement </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(2).pdf" style="text-decoration:none;">Benchmarking TPU, GPU, and CPU Platforms for Deep Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(2).pdf" style="text-decoration:none;">Density Calculations </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(3).pdf" style="text-decoration:none;">Deep Learning Hardware: Past, Present, and Future</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(4).pdf" style="text-decoration:none;">Eyeriss v2: A Flexible and High-Performance Accelerator for Emerging Deep Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(3).pdf" style="text-decoration:none;">Scientific Notation</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(4).pdf" style="text-decoration:none;">Addition, Subtraction, Multiplication and Division of Significant Figures</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(5).pdf" style="text-decoration:none;">Faster Neural Network Training with Data Echoing</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(5).pdf" style="text-decoration:none;">Properties of Matter</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(6).pdf" style="text-decoration:none;">Recent progress in analog memory-based accelerators for deep learning</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(6).pdf" style="text-decoration:none;">Changes in Matter</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(7).pdf" style="text-decoration:none;">Rethinking floating point for deep learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(7).pdf" style="text-decoration:none;">Elements and Compounds</a></b></li>
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(8).pdf" style="text-decoration:none;">Impact of Artificial Intelligence on Businesses: from Research, Innovation, Market Deployment to Future Shifts in Business Models</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(8).pdf" style="text-decoration:none;">Law of Definite Proportions, Law of Multiple Proportions</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(9).pdf" style="text-decoration:none;">A Polynomial-time Nash Equilibrium Algorithm for Repeated Games</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(10).pdf" style="text-decoration:none;">Building Machines that Learn and Think for Themselves: Commentary on Lake, Ullman, Tenenbaum, and Gershman, Behavioral and Brain Sciences, 2017</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(9).pdf" style="text-decoration:none;">Dalton's Atomic Theory</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(10).pdf" style="text-decoration:none;">Electrons, Protons, and Neutrons</a></b></li>  
                           
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(11).pdf" style="text-decoration:none;">Friend-or-Foe Q-learning in General-Sum Games </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(11).pdf" style="text-decoration:none;">Rutherford's Gold Foil Experiment </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(12).pdf" style="text-decoration:none;">An introduction to information theory and entropy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(12).pdf" style="text-decoration:none;">Atomic Number, Isotopes, and Mass Number</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(13).pdf" style="text-decoration:none;">Markov games as a framework for multi-agent reinforcement learning</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(14).pdf" style="text-decoration:none;">Monte-Carlo Tree Search: A New Framework for Game AI</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(15).pdf" style="text-decoration:none;">Non-zero-sum Game Theory, Auctions and Negotiation</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(16).pdf" style="text-decoration:none;">Solving Stochastic Games</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(13).pdf" style="text-decoration:none;">Atomic Mass Unit, Atomic Mass</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(14).pdf" style="text-decoration:none;">Energy, Photons, Frequency and Wavelength</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(15).pdf" style="text-decoration:none;">Demonstration of Emission Spectra</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(16).pdf" style="text-decoration:none;">Emission Spectra</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(17).pdf" style="text-decoration:none;">Introduction to Game Theory</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(17).pdf" style="text-decoration:none;">History of the Periodic Chart</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(18).pdf" style="text-decoration:none;">Toward an AI Physicist for Unsupervised Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(18).pdf" style="text-decoration:none;">Sections of the Periodic Chart</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(19).pdf" style="text-decoration:none;">Games with Hidden Information</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(19).pdf" style="text-decoration:none;">Electron Configuration and the Periodic Chart</a></b></li>
 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(20).pdf" style="text-decoration:none;">Discovering physical concepts with neural networks</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(20).pdf" style="text-decoration:none;">Ionization Energy, Electron Affinity and Electronegativity</a></b></li>  
                           
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(21).pdf" style="text-decoration:none;">Exploring galaxy evolution with generative models</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(21).pdf" style="text-decoration:none;">Names and Formulas for Ionic Compounds</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(22).pdf" style="text-decoration:none;">Learning to Predict the Cosmological Structure Formation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(22).pdf" style="text-decoration:none;">Properties of Ionic Compounds and Metals</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(23).pdf" style="text-decoration:none;">Newton vs the machine: solving the chaotic three-body problem using deep neural networks</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(24).pdf" style="text-decoration:none;">QuCumber: wavefunction reconstruction with neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(23).pdf" style="text-decoration:none;">Naming Covalent Compounds</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(24).pdf" style="text-decoration:none;">Polar and Nonpolar Molecules</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(25).pdf" style="text-decoration:none;">Tackling Climate Change with Machine Learning</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(25).pdf" style="text-decoration:none;">Creating Balanced Equations from Sentences</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(26).pdf" style="text-decoration:none;">TossingBot: Learning to Throw Arbitrary Objects with Residual Physics</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(26).pdf" style="text-decoration:none;">Types of Reactions</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(27).pdf" style="text-decoration:none;">Unsupervised word embeddings capture latent knowledge from materials science literature</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(27).pdf" style="text-decoration:none;">Predicting the Outcome of Single-replacement Reactions</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(28).pdf" style="text-decoration:none;">A Closer Look at Memorization in Deep Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(28).pdf" style="text-decoration:none;">Soluble and Insoluble Ionic Compounds</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(29).pdf" style="text-decoration:none;">A disciplined approach to neural network hyper-parameters: Part 1 &minus; learning rate, batch size, momentum, and weight decay</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(29).pdf" style="text-decoration:none;">Dissociation of Ionic Compounds</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(30).pdf" style="text-decoration:none;">A fast learning algorithm for deep belief nets</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(31).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(30).pdf" style="text-decoration:none;">Reactions that Form Precipitates</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(31).pdf" style="text-decoration:none;">The Mole</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(32).pdf" style="text-decoration:none;">Regularized Evolution for Image Classifier Architecture Search</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(32).pdf" style="text-decoration:none;">Mass and the Mole</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(33).pdf" style="text-decoration:none;">An exact mapping between the Variational Renormalization Group and Deep Learning</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(33).pdf" style="text-decoration:none;">Molar Mass of Compounds</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(34).pdf" style="text-decoration:none;">Automatic Differentiation in Machine Learning: a Survey</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(34).pdf" style="text-decoration:none;">Percent Composition</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(35).pdf" style="text-decoration:none;">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(35).pdf" style="text-decoration:none;">Empirical Formulas</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(36).pdf" style="text-decoration:none;">Benchmarking Neural Network Robustness to Common Corruptions and Perturbations</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(37).pdf" style="text-decoration:none;">Dive into Deep Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(36).pdf" style="text-decoration:none;">Molecular Formulas</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(37).pdf" style="text-decoration:none;">Formula for a Hydrate</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(38).pdf" style="text-decoration:none;">Data Synthesis based on Generative Adversarial Networks</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(38).pdf" style="text-decoration:none;">Stoichiometric Mass-to-Mass Conversion</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(39).pdf" style="text-decoration:none;">Deep Boltzmann Machines</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(39).pdf" style="text-decoration:none;">Stoichiometric Shortcut, Mass-to-Mass</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(40).pdf" style="text-decoration:none;">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(40).pdf" style="text-decoration:none;">Limiting Reactants (Mass-to-Mass)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(41).pdf" style="text-decoration:none;">Deep Sparse Rectifier Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(41).pdf" style="text-decoration:none;">Percent Yield</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(42).pdf" style="text-decoration:none;">Deep, Skinny Neural Networks are not Universal Approximators</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(43).pdf" style="text-decoration:none;">Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(42).pdf" style="text-decoration:none;">States of Matter</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(43).pdf" style="text-decoration:none;">Changes of State</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(44).pdf" style="text-decoration:none;">Do Neural Networks Show Gestalt Phenomena?: An Exploration of the Law of Closure</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(44).pdf" style="text-decoration:none;">Atmospheric Pressure, Boiling Point, and Phase Diagrams</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(45).pdf" style="text-decoration:none;">Don't Decay the Learning Rate, Increase the Batch Size</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(45).pdf" style="text-decoration:none;">Specific Heat, Heat of Fusion, and Heat of Vaporization</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(46).pdf" style="text-decoration:none;">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(46).pdf" style="text-decoration:none;">Kinetic Theory, Introduction to Boyle's and Charles's Law</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(47).pdf" style="text-decoration:none;">Dynamic Routing Between Capsules</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(47).pdf" style="text-decoration:none;">Demonstration of Boyle's Law and Charles's Law</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(48).pdf" style="text-decoration:none;">Efficient BackProp</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(49).pdf" style="text-decoration:none;">EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(48).pdf" style="text-decoration:none;">Boyle's Law and Charles Law</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(49).pdf" style="text-decoration:none;">Gay-Lussac's Law and the Combined Gas Law</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(50).pdf" style="text-decoration:none;">End-To-End Memory Networks</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(50).pdf" style="text-decoration:none;">Dalton's Law of Partial Pressures</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(51).pdf" style="text-decoration:none;">Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(51).pdf" style="text-decoration:none;">Ideal Gas Law</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(52).pdf" style="text-decoration:none;">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(52).pdf" style="text-decoration:none;">Avogadro's Principle</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(53).pdf" style="text-decoration:none;">FixingWeight Decay Regularization in Adam</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(53).pdf" style="text-decoration:none;">Gas Stoichiometry</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(54).pdf" style="text-decoration:none;">FractalNet: Ultra-Deep Neural Networks without Residuals</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(55).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(54).pdf" style="text-decoration:none;">Gas Stoichiometry Shortcuts</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(55).pdf" style="text-decoration:none;">Graham's Law</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(56).pdf" style="text-decoration:none;">Deep Learning: A Critical Appraisal </a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(56).pdf" style="text-decoration:none;">Solutions, Percent by Mass and Volume </a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(57).pdf" style="text-decoration:none;">Geometric deep learning: going beyond Euclidean data</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(57).pdf" style="text-decoration:none;">Molarity</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(58).pdf" style="text-decoration:none;">Going deeper with convolutions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(58).pdf" style="text-decoration:none;">Molarity – Preparations from Stock Solutions</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(59).pdf" style="text-decoration:none;">Gradient-Based Learning Applied to Document Recognition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(59).pdf" style="text-decoration:none;">Molality</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(60).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition</a></b></li>                         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(60).pdf" style="text-decoration:none;">Boiling Point Elevation and Freezing Point Depression, Part 1</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(61).pdf" style="text-decoration:none;">Neural Computation of Decisions in Optimization Problems</a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(62).pdf" style="text-decoration:none;">How transferable are features in deep neural networks?</a></b></li>  
