@@ -1,4 +1,4 @@
-<h2>AI Hardware: </h2>
+<h2>Chemistry Lectures - Richard Louie: </h2>
 
 <ul>
   
