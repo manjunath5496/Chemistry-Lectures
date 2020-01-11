@@ -201,7 +201,7 @@
    
  </br>
  
- <h2> Top 16 Popular Chemistry Books For the general-reader </h2>
+ <h2> Top 16 Popular Chemistry Books For The General Reader: </h2>
    
    
 
